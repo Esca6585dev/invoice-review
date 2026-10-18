@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/ChangeLog.tsx","./src/components/DocumentViewer.tsx","./src/components/FieldPanel.tsx","./src/components/NewFieldDialog.tsx","./src/components/UploadZone.tsx","./src/data/mockFields.ts","./src/lib/format.ts"],"version":"5.8.3"}
